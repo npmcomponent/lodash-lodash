@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [lodash/lodash](http://github.com/lodash/lodash). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/lodash-lodash`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Lo-Dash v2.4.1
 A utility library delivering consistency, [customization](http://lodash.com/custom-builds), [performance](http://lodash.com/benchmarks), & [extras](http://lodash.com/#features).
 
